@@ -117,12 +117,12 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/AcruxDeFi",
+    href: "https://t.me/Ailuropodinae_Finance",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/unicorn_fi",
+    href: "https://twitter.com/AiluropodinaeF ",
   },
 ];
 
